@@ -1349,10 +1349,13 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
-  min-width: 320px; }
+  padding: 0; }
+
+.body-container {
+  max-width: 1920px;
+  margin: 0 auto; }
   @media (min-width: 1366px) {
-    body {
+    .body-container {
       display: grid;
       grid-template-columns: 320px auto; } }
 
