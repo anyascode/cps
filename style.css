@@ -1352,7 +1352,7 @@ body {
   padding: 0; }
 
 .body-container {
-  max-width: 1920px;
+  max-width: 1440px;
   margin: 0 auto; }
   @media (min-width: 1366px) {
     .body-container {
